@@ -82,9 +82,6 @@ public class Arr_rotation1 {
             System.out.print(arr3[i]+" ");
         }
 
-
-
-
         }
     }
 
