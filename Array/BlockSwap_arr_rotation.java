@@ -109,7 +109,7 @@ public class BlockSwap_arr_rotation {
     {
         for(int z=0;z<arrsize;z++)
         {
-            System.out.print(result[z]);
+             System.out.print(result[z]+" ");
         }
     }
 }
