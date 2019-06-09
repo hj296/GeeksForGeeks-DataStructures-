@@ -33,6 +33,7 @@ public class Arr_rotation {
           {
               arr3[i] = arr2[i];
           }
+                
 
             if (n1 == d1) {
 
